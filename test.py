@@ -1,0 +1,2 @@
+name = "steve"
+discount = False
